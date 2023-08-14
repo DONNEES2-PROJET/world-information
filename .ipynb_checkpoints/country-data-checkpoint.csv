@@ -1,0 +1,196 @@
+,Country,Land Area(Km2),Capital/Major City,Largest city,Calling Code,Official language,Latitude,Longitude
+0,Afghanistan,652230.0,Kabul,Kabul,93.0,Pashto,33.93911,67.709953
+1,Albania,28748.0,Tirana,Tirana,355.0,Albanian,41.153332,20.168331
+2,Algeria,2381741.0,Algiers,Algiers,213.0,Arabic,28.033886,1.6596259999999998
+3,Andorra,468.0,Andorra la Vella,Andorra la Vella,376.0,Catalan,42.506285,1.521801
+4,Angola,1246700.0,Luanda,Luanda,244.0,Portuguese,-11.202692,17.873887
+5,Antigua and Barbuda,443.0,"St. John's, Saint John","St. John's, Saint John",1.0,English,17.060816,-61.796428000000006
+6,Argentina,2780400.0,Buenos Aires,Buenos Aires,54.0,Spanish,-38.416097,-63.616672
+7,Armenia,29743.0,Yerevan,Yerevan,374.0,Armenian,40.069099,45.038189
+8,Australia,7741220.0,Canberra,Sydney,61.0,,-25.274398,133.775136
+9,Austria,83871.0,Vienna,Vienna,43.0,German,47.516231,14.550072
+10,Azerbaijan,86600.0,Baku,Baku,994.0,Azerbaijani language,40.143105,47.576927000000005
+11,The Bahamas,13880.0,"Nassau, Bahamas","Nassau, Bahamas",1.0,English,25.03428,-77.39628
+12,Bahrain,765.0,Manama,Riffa,973.0,Arabic,26.0667,50.5577
+13,Bangladesh,148460.0,Dhaka,Dhaka,880.0,Bengali,23.684994,90.356331
+14,Barbados,430.0,Bridgetown,Bridgetown,1.0,English,13.193887,-59.543198
+15,Belarus,207600.0,Minsk,Minsk,375.0,Russian,53.709807,27.953389
+16,Belgium,30528.0,City of Brussels,Brussels,32.0,French,50.503887,4.469936
+17,Belize,22966.0,Belmopan,Belize City,501.0,English,17.189877,-88.49765
+18,Benin,112622.0,Porto-Novo,Cotonou,229.0,French,9.30769,2.315834
+19,Bhutan,38394.0,Thimphu,Thimphu,975.0,Dzongkha,27.514162,90.433601
+20,Bolivia,1098581.0,Sucre,Santa Cruz de la Sierra,591.0,Spanish,-16.290154,-63.588653
+21,Bosnia and Herzegovina,51197.0,Sarajevo,Tuzla Canton,387.0,Bosnian,43.915886,17.679076000000002
+22,Botswana,581730.0,Gaborone,Gaborone,267.0,English,-22.328474,24.684866
+23,Brazil,8515770.0,Bras���,S����,55.0,Portuguese,-14.235004,-51.92528
+24,Brunei,5765.0,Bandar Seri Begawan,,673.0,Malay,4.535277,114.727669
+25,Bulgaria,110879.0,Sofia,Sofia,359.0,Bulgarian,42.733883,25.48583
+26,Burkina Faso,274200.0,Ouagadougou,Ouagadougou,226.0,French,12.238333,-1.561593
+27,Burundi,27830.0,Bujumbura,Bujumbura,257.0,Kirundi,-3.373056,29.918886
+28,Ivory Coast,322463.0,Yamoussoukro,Abidjan,225.0,French,7.539989,-5.54708
+29,Cape Verde,4033.0,Praia,Praia,238.0,Portuguese,16.5388,-23.0418
+30,Cambodia,181035.0,Phnom Penh,Phnom Penh,855.0,Khmer language,12.565679,104.990963
+31,Cameroon,475440.0,Yaound�,Douala,237.0,French,7.369722,12.354722
+32,Canada,9984670.0,Ottawa,Toronto,1.0,French,56.130366,-106.346771
+33,Central African Republic,622984.0,Bangui,Bangui,236.0,French,6.611111,20.939444
+34,Chad,1284000.0,N'Djamena,N'Djamena,235.0,French,15.454166,18.732207
+35,Chile,756096.0,Santiago,Santiago,56.0,Spanish,-35.675147,-71.542969
+36,China,9596960.0,Beijing,Shanghai,86.0,Standard Chinese,35.86166,104.195397
+37,Colombia,1138910.0,Bogot�,Bogot�,57.0,Spanish,4.570868,-74.297333
+38,Comoros,2235.0,"Moroni, Comoros","Moroni, Comoros",269.0,French,-11.6455,43.3333
+39,Republic of the Congo,342000.0,Brazzaville,Brazzaville,242.0,French,-0.228021,15.827659
+40,Costa Rica,51100.0,San Jos������,San Jos������,506.0,Spanish,9.748917,-83.753428
+41,Croatia,56594.0,Zagreb,Zagreb,385.0,Croatian,45.1,15.2
+42,Cuba,110860.0,Havana,Havana,53.0,Spanish,21.521757,-77.78116700000001
+43,Cyprus,9251.0,Nicosia,Statos�������,357.0,Greek,35.126413,33.429859
+44,Czech Republic,78867.0,Prague,Prague,420.0,Czech,49.817492,15.472962
+45,Democratic Republic of the Congo,2344858.0,Kinshasa,Kinshasa,243.0,French,-4.038333000000001,21.758664000000003
+46,Denmark,43094.0,Copenhagen,Copenhagen,45.0,Danish,56.26392,9.501785
+47,Djibouti,23200.0,Djibouti City,Djibouti City,253.0,French,11.825138,42.590275
+48,Dominica,751.0,Roseau,Roseau,1.0,English,15.414999,-61.370976
+49,Dominican Republic,48670.0,Santo Domingo,Santo Domingo,1.0,Spanish,18.735693,-70.162651
+50,Ecuador,283561.0,Quito,Quito,593.0,Spanish,-1.831239,-78.183406
+51,Egypt,1001450.0,Cairo,Cairo,20.0,Modern Standard Arabic,26.820553000000004,30.802498
+52,El Salvador,21041.0,San Salvador,San Salvador,503.0,Spanish,13.794185,-88.89653
+53,Equatorial Guinea,28051.0,Malabo,Malabo,240.0,Spanish,1.6508009999999995,10.267895
+54,Eritrea,117600.0,Asmara,Asmara,291.0,Tigrinya,15.179384,39.782334000000006
+55,Estonia,45228.0,Tallinn,Tallinn,372.0,Estonian,58.595272,25.013607
+56,Eswatini,17364.0,Mbabane,Mbabane,268.0,English,-26.522503000000004,31.465866
+57,Ethiopia,1104300.0,Addis Ababa,Addis Ababa,251.0,Amharic,9.145,40.489673
+58,Fiji,18274.0,Suva,Suva,679.0,Fiji Hindi,-17.713371,178.065032
+59,Finland,338145.0,Helsinki,Helsinki,358.0,Swedish,61.92411,25.748151
+60,France,643801.0,Paris,Paris,33.0,French,46.227638,2.213749
+61,Gabon,267667.0,Libreville,Libreville,241.0,French,-0.803689,11.609444
+62,The Gambia,11300.0,Banjul,Serekunda,220.0,English,13.443182,-15.310139
+63,Georgia,69700.0,Tbilisi,Tbilisi,995.0,Georgian,42.315407,43.356892
+64,Germany,357022.0,Berlin,Berlin,49.0,German,51.165691,10.451526
+65,Ghana,238533.0,Accra,Accra,233.0,English,7.946527000000001,-1.0231940000000002
+66,Greece,131957.0,Athens,Macedonia,30.0,Greek,39.074208,21.824312
+67,Grenada,349.0,"St. George's, Grenada","St. George's, Grenada",1.0,English,12.1165,-61.679
+68,Guatemala,108889.0,Guatemala City,Guatemala City,502.0,Spanish,15.783471,-90.230759
+69,Guinea,245857.0,Conakry,Kankan,224.0,French,9.945587,-9.696645
+70,Guinea-Bissau,36125.0,Bissau,Bissau,245.0,Portuguese,11.803749,-15.180413
+71,Guyana,214969.0,"Georgetown, Guyana","Georgetown, Guyana",592.0,English,4.860416000000001,-58.93018000000001
+72,Haiti,27750.0,Port-au-Prince,Port-au-Prince,509.0,French,18.971187,-72.28521500000001
+73,Vatican City,0.0,Vatican City,,379.0,Italian,41.902916,12.453389
+74,Honduras,112090.0,Tegucigalpa,Tegucigalpa,504.0,Spanish,15.199998999999998,-86.241905
+75,Hungary,93028.0,Budapest,Budapest,36.0,Hungarian,47.162494,19.503304
+76,Iceland,103000.0,Reykjav��,Reykjav��,354.0,Icelandic,64.96305100000001,-19.020835
+77,India,3287263.0,New Delhi,Kurebhar,91.0,Hindi,20.593684,78.96288
+78,Indonesia,1904569.0,Jakarta,Kalimantan,62.0,Indonesian,-0.789275,113.921327
+79,Iran,1648195.0,Tehran,Tehran,98.0,Persian,32.427908,53.68804599999999
+80,Iraq,438317.0,Baghdad,Baghdad,964.0,Arabic,33.223191,43.679291
+81,Republic of Ireland,70273.0,Dublin,Connacht,353.0,Irish,53.41291,-8.243889999999999
+82,Israel,20770.0,Jerusalem,Jerusalem,972.0,Hebrew,31.046051,34.851612
+83,Italy,301340.0,Rome,Rome,39.0,Italian,41.87194,12.56738
+84,Jamaica,10991.0,"Kingston, Jamaica","Kingston, Jamaica",1876.0,Jamaican English,18.109581,-77.297508
+85,Japan,377944.0,Tokyo,Tokyo,81.0,,36.204824,138.252924
+86,Jordan,89342.0,Amman,Amman,962.0,Arabic,30.585164,36.238414
+87,Kazakhstan,2724900.0,Astana,Almaty,7.0,Russian,48.019573,66.923684
+88,Kenya,580367.0,Nairobi,Nairobi,254.0,Swahili,-0.023559,37.906193
+89,Kiribati,811.0,South Tarawa,South Tarawa,686.0,English,1.8368976,-157.37683169999997
+90,Kuwait,17818.0,Kuwait City,Kuwait City,965.0,Modern Standard Arabic,29.31166,47.481766
+91,Kyrgyzstan,199951.0,Bishkek,Bishkek,996.0,Russian,41.20438,74.766098
+92,Laos,236800.0,Vientiane,Vientiane,856.0,Lao,19.85627,102.495496
+93,Latvia,64589.0,Riga,Riga,371.0,Latvian,56.879635,24.603189
+94,Lebanon,10400.0,Beirut,"Tripoli, Lebanon",961.0,Arabic,33.854721000000005,35.862285
+95,Lesotho,30355.0,Maseru,Maseru,266.0,English,-29.609988,28.233608
+96,Liberia,111369.0,Monrovia,Monrovia,231.0,English,6.4280550000000005,-9.429499
+97,Libya,1759540.0,,,218.0,Arabic,26.3351,17.228331
+98,Liechtenstein,160.0,Vaduz,Schaan,423.0,German,47.1410392,9.520935
+99,Lithuania,65300.0,Vilnius,Vilnius,370.0,Lithuanian,55.169438,23.881275
+100,Luxembourg,2586.0,Luxembourg City,Luxembourg City,352.0,Luxembourgish,49.815273,6.129583
+101,Madagascar,587041.0,Antananarivo,Antananarivo,261.0,French,-18.766947,46.869107
+102,Malawi,118484.0,Lilongwe,Lilongwe,265.0,English,-13.254307999999998,34.301525
+103,Malaysia,329847.0,Kuala Lumpur,Johor Bahru,60.0,Malaysian language,4.210483999999999,101.975766
+104,Maldives,298.0,Mal�,Mal�,960.0,Divehi,3.202778,73.22068
+105,Mali,1240192.0,Bamako,Bamako,223.0,French,17.570692,-3.996166000000001
+106,Malta,316.0,Valletta,Birkirkara,356.0,Maltese,35.937496,14.375416
+107,Marshall Islands,181.0,Majuro,Majuro,692.0,Marshallese,7.131474000000001,171.184478
+108,Mauritania,1030700.0,Nouakchott,Nouakchott,222.0,Arabic,21.00789,-10.940835
+109,Mauritius,2040.0,Port Louis,Port Louis,230.0,French,-20.348404,57.552152
+110,Mexico,1964375.0,Mexico City,Mexico City,52.0,,23.634501,-102.552784
+111,Federated States of Micronesia,702.0,Palikir,Palikir,691.0,English,7.425553999999999,150.550812
+112,Moldova,33851.0,Chi����,Chi����,373.0,Romanian,47.411631,28.369885
+113,Monaco,2.0,Monaco City,Monaco City,377.0,French,43.738417600000005,7.4246158
+114,Mongolia,1564116.0,Ulaanbaatar,Ulaanbaatar,976.0,Mongolian,46.862496,103.846656
+115,Montenegro,13812.0,Podgorica,Podgorica,382.0,Montenegrin language,42.708678000000006,19.37439
+116,Morocco,446550.0,Rabat,Casablanca,212.0,Arabic,31.791702,-7.09262
+117,Mozambique,799380.0,Maputo,Maputo,258.0,Portuguese,-18.665695,35.529562
+118,Myanmar,676578.0,Naypyidaw,Yangon,95.0,Burmese,21.916221,95.955974
+119,Namibia,824292.0,Windhoek,Windhoek,264.0,English,-22.95764,18.49041
+120,Nauru,21.0,Yaren District,,674.0,English,-0.522778,166.931503
+121,Nepal,147181.0,Kathmandu,Kathmandu,977.0,Nepali,28.394857,84.12400799999999
+122,Netherlands,41543.0,Amsterdam,Amsterdam,31.0,Dutch,52.132633,5.291266
+123,New Zealand,268838.0,Wellington,Auckland,64.0,English,-40.900557,174.88597099999998
+124,Nicaragua,130370.0,Managua,Managua,505.0,Spanish,12.865416,-85.207229
+125,Niger,1267000.0,Niamey,Niamey,227.0,French,17.607789,8.081666
+126,Nigeria,923768.0,Abuja,Lagos,234.0,English,9.081999,8.675277000000001
+127,North Korea,120538.0,Pyongyang,Pyongyang,850.0,Korean,40.339852,127.510093
+128,North Macedonia,25713.0,Skopje,Skopje,389.0,Macedonian,41.608635,21.745275
+129,Norway,323802.0,Oslo,Oslo,47.0,Norwegian,60.472024,8.468946
+130,Oman,309500.0,Muscat,Seeb,968.0,Arabic,21.4735329,55.975413
+131,Pakistan,796095.0,Islamabad,Karachi,92.0,Urdu,30.375321000000003,69.345116
+132,Palau,459.0,Ngerulmud,Koror,680.0,English,7.51498,134.58252
+133,Palestinian National Authority,,,,,Arabic,31.952162,35.233154
+134,Panama,75420.0,Panama City,Panama City,507.0,Spanish,8.537981,-80.782127
+135,Papua New Guinea,462840.0,Port Moresby,Port Moresby,675.0,Tok Pisin,-6.314993,143.95555
+136,Paraguay,406752.0,Asunci��,Ciudad del Este,595.0,Spanish,-23.442503,-58.44383199999999
+137,Peru,1285216.0,Lima,Lima,51.0,Spanish,-9.189967,-75.015152
+138,Philippines,300000.0,Manila,Manila,63.0,English,12.879721,121.774017
+139,Poland,312685.0,Warsaw,Warsaw,48.0,Polish,51.919438,19.145136
+140,Portugal,92212.0,Lisbon,Lisbon,351.0,Portuguese,39.399872,-8.224454
+141,Qatar,11586.0,Doha,Doha,974.0,Arabic,25.354826,51.183884
+142,Romania,238391.0,Bucharest,Bucharest,40.0,Romanian,45.943161,24.96676
+143,Russia,17098240.0,Moscow,Moscow,7.0,Russian,61.52401,105.318756
+144,Rwanda,26338.0,Kigali,Kigali,250.0,Swahili,-1.940278,29.873888
+145,Saint Kitts and Nevis,261.0,Basseterre,Basseterre,1.0,English,17.357822,-62.782998
+146,Saint Lucia,616.0,Castries,Castries,1.0,English,13.909444,-60.97889300000001
+147,Saint Vincent and the Grenadines,389.0,Kingstown,Calliaqua,1.0,English,12.984305,-61.287228000000006
+148,Samoa,2831.0,Apia,Apia,685.0,Samoan,-13.759029,-172.10462900000002
+149,San Marino,61.0,City of San Marino,City of San Marino,378.0,Italian,43.94236,12.457777
+150,S�����������,964.0,S����,S����,239.0,,,
+151,Saudi Arabia,2149690.0,Riyadh,Riyadh,966.0,Arabic,23.885942,45.079162
+152,Senegal,196722.0,Dakar,Pikine,221.0,French,14.497401000000002,-14.452362
+153,Serbia,77474.0,Belgrade,Belgrade,381.0,Serbian,44.016521,21.005859
+154,Seychelles,455.0,"Victoria, Seychelles","Victoria, Seychelles",248.0,French,-4.679574,55.491977
+155,Sierra Leone,71740.0,Freetown,Freetown,232.0,English,8.460555000000001,-11.779889
+156,Singapore,716.0,,,65.0,Malay,1.352083,103.819836
+157,Slovakia,49035.0,Bratislava,Bratislava,421.0,Slovak,48.669026,19.699024
+158,Slovenia,20273.0,Ljubljana,Ljubljana,386.0,Slovene language,46.151241,14.995463
+159,Solomon Islands,28896.0,Honiara,Honiara,677.0,English,-9.64571,160.156194
+160,Somalia,637657.0,Mogadishu,Bosaso,252.0,Arabic,5.152149,46.199616
+161,South Africa,1219090.0,Pretoria,Johannesburg,27.0,Afrikaans,-30.559482,22.937506
+162,South Korea,99720.0,Seoul,Seoul,82.0,Korean,35.907757000000004,127.766922
+163,South Sudan,644329.0,Juba,Juba,211.0,English,6.876991900000001,31.3069788
+164,Spain,505370.0,Madrid,Madrid,34.0,Spanish,40.463667,-3.74922
+165,Sri Lanka,65610.0,Colombo,Colombo,94.0,Tamil,7.873054,80.77179699999999
+166,Sudan,1861484.0,Khartoum,Omdurman,249.0,Arabic,12.862807,30.217636
+167,Suriname,163820.0,Paramaribo,Paramaribo,597.0,Dutch,3.919305000000001,-56.02778299999999
+168,Sweden,450295.0,Stockholm,S�����,46.0,Swedish,60.128161,18.643501
+169,Switzerland,41277.0,Bern,Z���,41.0,German,46.818188,8.227511999999999
+170,Syria,185180.0,Damascus,Damascus,963.0,Arabic,34.802075,38.996815000000005
+171,Tajikistan,144100.0,Dushanbe,Dushanbe,992.0,Persian,38.861034,71.276093
+172,Tanzania,947300.0,Dodoma,Dar es Salaam,255.0,Swahili,-6.369028,34.888822
+173,Thailand,513120.0,Bangkok,Bangkok,66.0,Thai,15.870032,100.992541
+174,East Timor,14874.0,Dili,Dili,670.0,Portuguese,-8.874217,125.727539
+175,Togo,56785.0,Lom�,Lom�,228.0,French,8.619543,0.824782
+176,Tonga,747.0,Nuku����,Nuku����,676.0,Tongan Language,-21.178986,-175.198242
+177,Trinidad and Tobago,5128.0,Port of Spain,Chaguanas,1.0,English,10.691803,-61.222503
+178,Tunisia,163610.0,Tunis,Tunis,216.0,Arabic,33.886917,9.537499
+179,Turkey,783562.0,Ankara,Istanbul,90.0,Turkish,38.963745,35.243322
+180,Turkmenistan,488100.0,Ashgabat,Ashgabat,993.0,Turkmen,38.969719,59.556278000000006
+181,Tuvalu,26.0,Funafuti,Singapore,688.0,Tuvaluan Language,-7.109535,177.64933
+182,Uganda,241038.0,Kampala,Buganda,256.0,Swahili,1.373333,32.290275
+183,Ukraine,603550.0,Kyiv,Kyiv,380.0,Ukrainian,48.379433,31.16558
+184,United Arab Emirates,83600.0,Abu Dhabi,Dubai,971.0,Arabic,23.424076,53.847818
+185,United Kingdom,243610.0,London,London,44.0,English,55.378051,-3.435973
+186,United States,9833517.0,"Washington, D.C.",New York City,1.0,,37.09024,-95.712891
+187,Uruguay,176215.0,Montevideo,Montevideo,598.0,Spanish,-32.522779,-55.765835
+188,Uzbekistan,447400.0,Tashkent,Tashkent,998.0,Uzbek,41.377491,64.585262
+189,Vanuatu,12189.0,Port Vila,Port Vila,678.0,French,-15.376706,166.959158
+190,Venezuela,912050.0,Caracas,Caracas,58.0,Spanish,6.42375,-66.58973
+191,Vietnam,331210.0,Hanoi,Ho Chi Minh City,84.0,Vietnamese,14.058324,108.277199
+192,Yemen,527968.0,Sanaa,Sanaa,967.0,Arabic,15.552727,48.516388
+193,Zambia,752618.0,Lusaka,Lusaka,260.0,English,-13.133897,27.849332
+194,Zimbabwe,390757.0,Harare,Harare,263.0,Shona,-19.015438,29.154857
